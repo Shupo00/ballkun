@@ -1,8 +1,7 @@
 
-import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+;
 import "./globals.css";
-import { Inter } from 'next/font/google';
+
 
 import { Zen_Maru_Gothic } from 'next/font/google';
 const zenMaru = Zen_Maru_Gothic({ subsets: ['latin'], weight: ['400', '700'], display: 'swap' });
